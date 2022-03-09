@@ -13,7 +13,30 @@ Untrained Model            |  Basic Q-Learning (5,000 steps)  | Deep Q-Network (
   <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif" width="30%" height="30%" title="Basic Q-Learning (5,000 steps)" /> 
   <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif" width="30%" height="30%" title="Deep Q-Network (200,000 steps)" />
 </p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper 
+test
+test
+</p>
 
+| ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) | test |
+| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>| a |
+
+
+| <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif" width="30%" height="30%" title="Untrained Model" /> | <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif" width="30%" height="30%" title="Basic Q-Learning (5,000 steps)" /> | <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif" width="30%" height="30%" title="Deep Q-Network (200,000 steps)" /> |
+| :---:   |    :---: |  :---: |
+| Untrained Model   | Basic Q-Learning    | Deep Q-Network    |
+
+
+
+<!-- <p align = "center">
+<img src = "https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg">
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p> -->
+
+Untrained Model  |  Basic Q-Learning (5,000 steps)  | Deep Q-Network (200,000 steps)
 
 
 <img align="left" src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif" width="50%" height="50%" title="Untrained Model" />
