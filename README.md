@@ -23,9 +23,23 @@ test
 | <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>| a |
 
 
-| <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif" width="30%" height="30%" title="Untrained Model" /> | <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif" width="30%" height="30%" title="Basic Q-Learning (5,000 steps)" /> | <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif" width="30%" height="30%" title="Deep Q-Network (200,000 steps)" /> |
+| ![Untrained Model](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif) | <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif" width="30%" height="30%" title="Basic Q-Learning (5,000 steps)" /> | <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif" width="30%" height="30%" title="Deep Q-Network (200,000 steps)" /> |
 | :---:   |    :---: |  :---: |
 | Untrained Model   | Basic Q-Learning    | Deep Q-Network    |
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif" width="30%" height="30%" title="Untrained Model" /></td>
+    <td><img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif" width="30%" height="30%" title="Basic Q-Learning (5,000 steps)" /></td>
+    <td><img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif" width="30%" height="30%" title="Deep Q-Network (200,000 steps)" /></td>
+  </tr>
+   <tr>
+    <td>Untrained Model</td>
+     <td>Basic Q-Learning</td>
+     <td>Deep Q-Network</td>
+  </tr>
+ </table>
 
 
 
