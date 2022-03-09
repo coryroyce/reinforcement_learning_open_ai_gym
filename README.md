@@ -35,6 +35,12 @@ Fig Caption center test:
 
 Table Test 2
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 | ![Untrained Model](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif) | ![Basic Q-Learning (5,000 steps)](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif) | <![Deep Q-Network (200,000 steps)](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif) |
 | :---:   |    :---: |  :---: |
 | Untrained Model   | Basic Q-Learning    | Deep Q-Network    |
