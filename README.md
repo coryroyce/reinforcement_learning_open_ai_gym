@@ -69,6 +69,40 @@ Table Test 2
   </tr>
  </table>
 
+ HTML test 3
+
+<html>
+<head>
+<style>
+.grid-container {
+  display: grid;
+  height: 400px;
+  align-content: space-evenly;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-container > div {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+<div class="grid-container">
+  <div><img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif" width="30%" height="30%" title="Untrained Model" /></div>
+  <div><img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif" width="30%" height="30%" title="Basic Q-Learning (5,000 steps)" /></div>
+  <div><img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif" width="30%" height="30%" title="Deep Q-Network (200,000 steps)" /></div>  
+  <div>4</div>
+  <div>5</div>
+  <div>6</div>  
+</div>
+
+</body>
+</html>
+
 
 
 <!-- <p align = "center">
