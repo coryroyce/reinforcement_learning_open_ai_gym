@@ -10,7 +10,7 @@ Apply Reinforcement Learning (RL) to a simulated environment and then improve it
 1. Apply Basic Q-learning
 1. Improve Score with Deep Learning
 
-
+update 
 # Setup Gym Environment
 There are many reference tutorials on what OpenAi Gym is and how to use them, but one area I found lacking was how to render the video environments from within Google Colab.Check out my [Development Notebook]() for full details, but the highlight is that after installing a few additional visualization packages, you can wrap the rendering environment so that it save video file locally in Colab and then can be downloaded if needed.
 
