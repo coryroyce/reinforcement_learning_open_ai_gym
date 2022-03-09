@@ -3,9 +3,9 @@
 Apply Reinforcement Learning (RL) to a simulated environment and then improve it with deep learning networks. A sub goal was to work within Gym entirely in the browser with [Colab](https://colab.research.google.com/).
 
 
-![Untrained Model](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif "Title Test 1")  |  ![Basic Q-Learning (5,000 steps)](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif) | ![Deep Q-Network (200,000 steps)](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif)
-Untrained Model            |  Basic Q-Learning (5,000 steps)  | Deep Q-Network (200,000 steps)
-:-------------------------:|:-------------------------:
+| ![Untrained Model](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif "Title Test 1")  |  ![Basic Q-Learning (5,000 steps)](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif) | ![Deep Q-Network (200,000 steps)](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif) |
+| Untrained Model            |  Basic Q-Learning (5,000 steps)  | Deep Q-Network (200,000 steps) |
+| :---:|:---: |:---: |
 
 
 <p float="left">
@@ -14,10 +14,13 @@ Untrained Model            |  Basic Q-Learning (5,000 steps)  | Deep Q-Network (
   <img src="https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif" width="30%" height="30%" title="Deep Q-Network (200,000 steps)" />
 </p>
 <p align = "center">
-Fig.1 - 4K Mountains Wallpaper 
-test
-test
+    <figcaption align = "center"><b>Untrained Model</b></figcaption>
+    <figcaption align = "center"><b>Basic Q-Learning</b></figcaption>
+    <figcaption align = "center"><b>Deep Q-Network</b></figcaption>
 </p>
+
+
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
 
 | ![space-1.jpg](https://blog-assets.thedyrt.com/uploads/2019/01/shutterstock_1033306540-1.jpg) | test |
 | <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>| a |
