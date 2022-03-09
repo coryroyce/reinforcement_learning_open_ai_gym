@@ -2,21 +2,11 @@
 
 Apply Reinforcement Learning (RL) to a simulated environment and then improve it with deep learning networks. A sub goal was to work within Gym entirely in the browser with [Colab](https://colab.research.google.com/).
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/15311592/157525587-a5b0ad4d-e40d-4010-9809-2b4a9676d524.gif)
+![Untrained Model](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Untrained.gif)
 
+![Basic Q-Learning (5,000 steps)](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_Basic_Q_Learning_Trained_5k_steps.gif)
 
-
-https://user-images.githubusercontent.com/15311592/157524325-a40d04eb-bbb7-4ef8-9ccd-cd84047822ff.mp4
-
-
-
-https://user-images.githubusercontent.com/15311592/157524337-dce3a7ce-80dd-42d7-aae7-e1c04e6b8047.mp4
-
-
-
-https://user-images.githubusercontent.com/15311592/157524345-0dc51f4f-b061-4f5f-a976-35590213f082.mp4
-
-
+![Deep Q-Network (200,000 steps)](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/reference/Mountain_Car_DQN_Trained_200k_steps.gif)
 
 [Colab Model Development Notebook]()
 
