@@ -2,7 +2,7 @@
 
 Apply Reinforcement Learning (RL) to a simulated environment and then improve it with deep learning networks. A sub goal was to work within Gym entirely in the browser with Colab Notebooks.
 
-Check out the complete Colab Notebook [here]()
+Check out the complete Colab Notebook [here](https://github.com/coryroyce/reinforcement_learning_open_ai_gym/blob/main/notebook/220306_CMPE_252_HW_4_Reinforcement_Learning_Cory_Randolph.ipynb)
 
 
 
